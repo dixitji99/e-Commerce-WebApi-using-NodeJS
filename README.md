@@ -31,7 +31,7 @@ id: guid,<br/>
  
 
  <h2>Output</h2>
- <img src="assets/capture.JPG">
+ <img src="https://github.com/dixitji99/e-Commerce-WebApi-using-NodeJS/blob/master/assets/Capture.JPG">
 
 
  
